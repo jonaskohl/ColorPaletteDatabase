@@ -1,6 +1,8 @@
 # Part of the ColorPaletteDatabase at https://github.com/jonaskohl/ColorPaletteDatabase
 name: "MS-DOS 4 bit color palette"
 description: "This is the palette used by MS-DOS running in 16 color (4 bit) mode."
+creator: "Jonas Kohl"
+creatorURL: "https://jonaskohl.de/"
 colors:
   - "#000000"
   - "#808080"
